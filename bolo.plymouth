@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=bolo
+Description=Thème personnalisé du musée Bolo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bolo
+ScriptFile=/usr/share/plymouth/themes/bolo/bolo.script
